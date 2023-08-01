@@ -1,0 +1,12 @@
+D:\Programming\Projects\Leetcode75\StringLibrary\bin\Debug\net7.0\StringLibrary.deps.json
+D:\Programming\Projects\Leetcode75\StringLibrary\bin\Debug\net7.0\StringLibrary.dll
+D:\Programming\Projects\Leetcode75\StringLibrary\bin\Debug\net7.0\StringLibrary.pdb
+D:\Programming\Projects\Leetcode75\StringLibrary\obj\Debug\net7.0\StringLibrary.csproj.AssemblyReference.cache
+D:\Programming\Projects\Leetcode75\StringLibrary\obj\Debug\net7.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\Leetcode75\StringLibrary\obj\Debug\net7.0\StringLibrary.AssemblyInfoInputs.cache
+D:\Programming\Projects\Leetcode75\StringLibrary\obj\Debug\net7.0\StringLibrary.AssemblyInfo.cs
+D:\Programming\Projects\Leetcode75\StringLibrary\obj\Debug\net7.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Leetcode75\StringLibrary\obj\Debug\net7.0\StringLibrary.dll
+D:\Programming\Projects\Leetcode75\StringLibrary\obj\Debug\net7.0\refint\StringLibrary.dll
+D:\Programming\Projects\Leetcode75\StringLibrary\obj\Debug\net7.0\StringLibrary.pdb
+D:\Programming\Projects\Leetcode75\StringLibrary\obj\Debug\net7.0\ref\StringLibrary.dll
